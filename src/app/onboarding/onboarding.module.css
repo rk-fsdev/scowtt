@@ -1,0 +1,14 @@
+.rowInput {
+  display: flex;
+  gap: 16px;
+  align-items: center;
+}
+
+.inputField {
+  flex: 1;
+  padding: 10px;
+  border-radius: 8px;
+  border: 1px solid #334082;
+  background: #0f1530;
+  color: #e7ebfb;
+}
