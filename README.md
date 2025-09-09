@@ -1,6 +1,4 @@
-## Scowtt Web App
-
-Elijah Nevel's Scowtt Home Assessment with the features:
+## Favorite Movie Web App
 
 - Google Sign-In with NextAuth + Prisma (PostgreSQL)
 
